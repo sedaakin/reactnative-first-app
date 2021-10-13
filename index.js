@@ -11,4 +11,4 @@ import HomeScreen from './CoreComponents/HomeScreen'
 import ShoppingList from './CoreComponents/ShoppingList'
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => ShoppingList);
+AppRegistry.registerComponent(appName, () => HomeScreen);
